@@ -1,0 +1,10 @@
+{
+    "user": {
+        "name": "Alex",
+        "group": "SGN3-51B"
+    },
+    "request-details": {
+        "theme": "test",
+        "header": "problem..."
+    }
+}

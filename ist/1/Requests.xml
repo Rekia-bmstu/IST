@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="styles.css" type="text/css"?>
+<requests>
+    <request>
+        <user>
+            <name>Базиев Александр</name>
+            <group>СГН3-51Б</group>
+            <age>Возраст: 21</age>
+            <number>89991111122</number>
+        </user>
+        <request-details>
+            <theme>Техническая</theme>
+            <header>Лифт не работает</header>
+            <text>Лифт номер 5 в УЛК не работает, там кто-то застрял...</text>
+            <emergency-rate>8</emergency-rate>
+            <request-date>12.12.2022</request-date>
+        </request-details>
+    </request>
+    <request>
+        <user>
+            <name>Коноваленко Владимир</name>
+            <group>СГН3-52Б</group>
+            <age>Возраст: 20</age>
+            <number>89991111122</number>
+        </user>
+        <request-details>
+            <theme>Техническая</theme>
+            <header>На первом этаже повсюду вода</header>
+            <text>Кто-то перевернул ведро уборщицы и вся вода оказалась на полу.</text>
+            <emergency-rate>6</emergency-rate>
+            <request-date>12.12.2022</request-date>
+        </request-details>
+    </request>
+    <request>
+        <user>
+            <name>Сабанаев Тимофей</name>
+            <group>СГН3-52Б</group>
+            <age>Возраст: 19</age>
+            <number>89991111122</number>
+        </user>
+        <request-details>
+            <theme>Организационная</theme>
+            <header>Преподаватель не пришел</header>
+            <text>Преподаватель Смирнов С.С. не пришел на пару к группе СГН3-52Б в пятницу(вторая пара)</text>
+            <emergency-rate>7</emergency-rate>
+            <request-date>12.12.2022</request-date>
+        </request-details>
+    </request>
+</requests>
